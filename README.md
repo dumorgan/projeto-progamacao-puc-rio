@@ -3,4 +3,7 @@ Este repositório contém o código implementado na disciplina de Projeto de Pro
 
 
 Autor: Eduardo Santoro Morgan
+
+Orientador: Prof. Sergio Colcher
+
 2019.1
